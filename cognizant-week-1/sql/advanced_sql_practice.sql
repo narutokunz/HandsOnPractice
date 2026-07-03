@@ -1,9 +1,8 @@
 -- =========================================================
 -- WEEK 1: ADVANCED SQL PRACTICE
--- Runnable against MySQL / PostgreSQL / H2 with minor tweaks
 -- =========================================================
 
--- Sample schema
+
 CREATE TABLE departments (
     dept_id   INT PRIMARY KEY,
     dept_name VARCHAR(50)
