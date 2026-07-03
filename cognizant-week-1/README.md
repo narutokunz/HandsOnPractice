@@ -1,4 +1,4 @@
-# Cognizant — Week 1
+#  Week 1
 
 Topics: Design Patterns · Data Structures & Algorithms · Advanced SQL · JUnit 5 + Mockito
 
